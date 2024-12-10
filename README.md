@@ -3,6 +3,8 @@
 ### Overview
 The **Caesar Cipher Script** is a simple implementation of the classic Caesar cipher encryption and decryption technique. This script allows users to securely encode and decode messages by shifting the letters of the alphabet by a specified number of positions. It supports both encryption and decryption operations, making it a versatile tool for basic cryptography.
 
+This project is developed as part of my internship at Podigy Infotech, where I am learning about cryptography and software development practices.
+
 ### Features
 - **Encryption and Decryption**: Easily encrypt messages by shifting letters forward or decrypt them by shifting letters backward.
 - **User-Friendly Interface**: Interactive command-line interface that prompts users for input.
@@ -24,11 +26,11 @@ The script defines a function `caesar_cipher(text, shift, mode)` that processes 
 #### Running the Script
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/SiDisUniquE/PRODIGY_CS_01.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd yourproject
+   cd PRODIGY_CS_01
    ```
 3. Run the script using Python:
    ```bash
