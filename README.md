@@ -1,5 +1,3 @@
-Certainly! Here’s an updated version of the README description that includes commands to run the script, along with other relevant details.
-
 ## Caesar Cipher Script
 
 ### Overview
